@@ -38,7 +38,7 @@ const Hero = () => {
               Belarus
             </p>
 
-            <a href="#about">
+            <a href="#projects">
               <MagicButton
                 title="See my work"
                 icon={<FaLocationArrow />}
